@@ -68,7 +68,7 @@ class _IntroAppUiState extends State<IntroAppUi> {
               ),
             ),
 
-          //
+          // //
           // #indicators
           Padding(
             padding: const EdgeInsets.only(bottom: 50.0),
